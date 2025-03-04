@@ -2,9 +2,16 @@ title: John Doe # your name (or website title) here Frederico
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  Data Engineer with +15 years of experience in sales, channel manajement and data related roles in the IT industry.
   <br><br>
-  Second description 
+  Data Engineer with +15 years of experience in sales, channel management and data related roles in the IT industry.
+  Skills in Python, SQL, ETL/ELT process, AWS tools and ML.
+  Worked in SAP, Emburse Captio, Own Retail Business and as a Consultant in the Financial, Real Estate, SaaS Industries.
+  Master in Data Science, Big Data, Machine Learning, Mioti Madrid
+  University Degree in Business Administration, NOVA Lisbon
+  <br><br>
+  Second description
+  <br><br>
+  Programming 
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
